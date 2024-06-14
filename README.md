@@ -30,7 +30,7 @@ A feature-rich Airbnb clone built with Next.js, Prisma, and other modern web tec
 
 - **Frontend:** React, Next.js, TailwindCSS
 - **Backend:** Next.js API Routes, Prisma, NextAuth.js
-- **Database:** Prisma Client
+- **Database:** Prisma Client, MongoDB
 - **Other:** Axios, Bcrypt, Date-fns, Query-string, React Icons, React Spinners, World Countries
 
 ## Getting Started
@@ -40,7 +40,7 @@ Follow these steps to get the project up and running locally.
 ### Prerequisites
 
 - Node.js and npm installed on your machine
-- A PostgreSQL database (or another database supported by Prisma)
+- A MongoDB database for storing user data and other information
 - A Cloudinary account for image uploads
 
 ### Installation
