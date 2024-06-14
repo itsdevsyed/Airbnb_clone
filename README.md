@@ -1,7 +1,8 @@
 # Airbnb Clone
 
-![Airbnb Clone](https://via.placeholder.com/728x90.png?text=Airbnb+Clone)
-
+<p align="center">
+  <img src="https://imgs.search.brave.com/KhyKEgUcqGNIOSDZXOYtokkvOQXoCsSE2hYnjyoQuRo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9hbmlt/YXRpb252aXNhcnRz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMi8wMS9BaXJi/bmItTG9nby5qcGc" alt="Disney Clone" width="600">
+</p>
 A feature-rich Airbnb clone built with Next.js, Prisma, and other modern web technologies.
 
 ## Table of Contents
